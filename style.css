@@ -11,3 +11,7 @@ h1 {
     text-align: center;
     color: red;
 }
+
+ul li {
+    margin-bottom: 16px;
+}
